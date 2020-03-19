@@ -2,8 +2,6 @@
 
 ![dashboard example](dashboardExample.png)
 
-## [Demo Part 1](https://stackblitz.com/edit/react-cumulio-demo-part-1) | [Code Part 1](https://github.com/cumulio/react-cumulio-demo-part-1)
-
 # Contents
 
 - [What is react-cumulio](#What-is-react-cumulio)
@@ -247,7 +245,6 @@ You can also have multiple dashboards on one page if you want. Just add another 
 As you can see it is easy to add a Cumul.io dashboard to your website by using this library.  
 You only have to do some minimal styling in your application, because the dashboard will always take up the full width of the parent and then calculate the height it needs to show the full dashbaord. The only tricky thing you need to do is find a nice spot in your application for your dashboard.
 
-[Code Part 1](https://github.com/cumulio/react-cumulio-demo-part-1) | [Demo Part 1](https://stackblitz.com/edit/react-cumulio-demo-part-1)  
 [Go to part 2 to make a multipage application with several embedded dashboards!](https://github.com/cumulio/react-cumulio-demo-part2/blob/master/README.md)
 
 ---
